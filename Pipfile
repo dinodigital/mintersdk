@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+rlp = "==2.0.1"
+requests = "==2.7.0"
+mnemonic = "==0.19"
+pysha3 = "==1.0.2"
+sslcrypto = "==5.3"
+sha3 = "==0.2.1"
+PyQRCode = "==1.2.1"
+Deprecated = "==1.2.10"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
